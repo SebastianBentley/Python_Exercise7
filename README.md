@@ -12,8 +12,8 @@
 
 
 
-#### Made by Powerpuff Pigerne & Professor Utonium
-1. Michael Ibsen (cph@cphbusiness.dk)
-2. Rasmus Grønbek (cph@cphbusines.dk)
-3. Sebastian Bentley (cph-sb287@cphbusiness.dk)
-4. Sebastian Steen Lundby Hansen (cph@cphbusiness.dk)
+#### Made by Powerpuff Pigerne & Professor Utonium:
+- Michael Ibsen (cph@cphbusiness.dk)
+- Rasmus Grønbek (cph@cphbusines.dk)
+- Sebastian Bentley (cph-sb287@cphbusiness.dk)
+- Sebastian Steen Lundby Hansen (cph@cphbusiness.dk)
