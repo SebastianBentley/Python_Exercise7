@@ -7,6 +7,7 @@
 
 ## Exercise 2
 1. Using Regular Expressions and the data from Exercise 1, find all laptops with the brand Asus.
+2. Use Selenium to click on the most expensive Asus laptop, then find and print its graphics card, using BeautifulSoup.
 
 ## Exercise 3
 1. Use the data from Exercise 2, to make a sorted bar chart of the laptops, where x-axis is names, and y-axis is price. 
