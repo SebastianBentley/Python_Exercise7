@@ -1,14 +1,15 @@
 # Python Exercise 07
 
 ## Exercise 1
-1. Go to this website:
-2. Use BeautifulSoup, to...
+1. Go to this website: [https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop](https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop)
+2. Use BeautifulSoup, to select the name and price for the laptops (hint: look for "product-list-container" to begin with).
+3. Save the data, to be used for later.
 
 ## Exercise 2
-1. Using Regular Expressions, find all...
+1. Using Regular Expressions and the data from Exercise 1, find all laptops with the brand Asus.
 
 ## Exercise 3
-1. Use the data from Exercise 2, to make a sorted chart of....
+1. Use the data from Exercise 2, to make a sorted bar chart of the laptops, where x-axis is names, and y-axis is price. 
 
 
 
