@@ -7,7 +7,7 @@
 4. Insert the laptop data into the laptops table, using a mysql connector and cursor.
 
 ## Exercise 2
-1. Create a restful webservice that can respond to the following requests:
+1. Create a restful webservice that can respond to the following requests, by collecting/adding data from the laptops table:
 
 | Method | URL              | Response                                             | Description                                     |
 |--------|------------------|------------------------------------------------------|-------------------------------------------------|
@@ -15,7 +15,7 @@
 | POST   | /api/laptops     | POST json: {"name":"Acer", "price":12345}            | Adds a new Laptop object to the database        |
 
 ## Exercise 3
-1. Select the data from the database, using the cursor made in Exercise 1.
+1. Select the data from the endpoints, using a request object.
 2. Make a sorted bar chart of the laptops, where x-axis is names, and y-axis is price.
 
 
