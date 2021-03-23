@@ -8,6 +8,7 @@
 
 ## Exercise 2
 1. Create a restful webservice that can respond to the following requests:
+
 | Method | URL              | Response                                             | Description                                     |
 |--------|------------------|------------------------------------------------------|-------------------------------------------------|
 | GET    | /api/laptops/all | [{"id":1, "name":"ASUS TUF", "price":9999},{},{}...] | Returns all the laptop object from the database |
