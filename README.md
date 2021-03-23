@@ -1,4 +1,4 @@
-# Python Exercise 07
+# Python Exercise 08
 
 ## Exercise 1
 1. Go to this website: [https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop](https://www.elgiganten.dk/catalog/gaming/dk-gaming-laptop/gaming-laptop)
