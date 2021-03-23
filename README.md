@@ -3,7 +3,7 @@
 ## Exercise 1
 1. Go to this website: [https://www.komplett.dk/category/21661/gaming/gaming-pc/baerbar](https://www.komplett.dk/category/21661/gaming/gaming-pc/baerbar)
 2. Use BeautifulSoup, to select the name and price for the laptops (hint: look for class="product-price" to begin with).
-3. Create a mysql table called laptops.
+3. Create a mysql table called laptops, with columns id, name, price.
 4. Insert the laptop data into the laptops table, using a mysql connector and cursor.
 
 ## Exercise 2
