@@ -11,7 +11,7 @@
 
 | Method | URL              | Response                                             | Description                                     |
 |--------|------------------|------------------------------------------------------|-------------------------------------------------|
-| GET    | /api/laptops/all | [{"id":1, "name":"ASUS TUF", "price":9999},{},{}...] | Returns all the laptop object from the database |
+| GET    | /api/laptops/all | [{"id":1, "name":"ASUS TUF", "price":9999},{},{}...] | Returns all the laptop objects from the database|
 | POST   | /api/laptops     | POST json: {"name":"Acer", "price":12345}            | Adds a new Laptop object to the database        |
 
 ## Exercise 3
